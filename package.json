@@ -12,7 +12,7 @@
   },
   "commands": [
     {
-      "command": "npm install --legacy-peer-deps"
+      "command": "npm install --force"
     },
     {
       "command": "npm run build"
