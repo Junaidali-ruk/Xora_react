@@ -8,16 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "postinstall": "npm install --force"
+    "install": "npm install --force"
   },
-  "commands": [
-    {
-      "command": "npm install --force"
-    },
-    {
-      "command": "npm run build"
-    }
-  ],
   "dependencies": {
     "clsx": "^2.1.1",
     "prettier": "^3.3.3",
