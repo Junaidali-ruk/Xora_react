@@ -1,0 +1,13 @@
+github: [user1, user2, user3, user4] # Replace with actual GitHub Sponsors usernames
+patreon: creator_username # Replace with your Patreon username
+open_collective: open_collective_project # Replace with your Open Collective username or project
+ko_fi: creator_kofi_username # Replace with your Ko-fi username
+tidelift: npm/your-package # Replace with your Tidelift package/platform name
+community_bridge: cloud-foundry # Replace with your Community Bridge project name
+liberapay: liberapay_username # Replace with your Liberapay username
+issuehunt: issuehunt_username # Replace with your IssueHunt username
+lfx_crowdfunding: cloud-foundry # Replace with your LFX Crowdfunding project name
+polar: polar_username # Replace with your Polar username
+buy_me_a_coffee: coffee_username # Replace with your Buy Me a Coffee username
+thanks_dev: thanks_dev_username # Replace with your thanks.dev username
+custom: ['https://custom-link1.com', 'https://custom-link2.com'] # Replace with up to 4 custom URLs
